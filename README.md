@@ -1,4 +1,4 @@
-# MERN Chat App
+# Real-Time Chat Application
 
 A real-time chat application built with the MERN (MongoDB, Express, React, Node.js) stack. This project features user authentication, real-time messaging with Socket.IO, and a modern React frontend.
 
